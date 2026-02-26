@@ -5,7 +5,7 @@ import sys
 from PIL import Image
 
 # Theme path for GUI (fallback when not running as a PyInstaller bundle)
-THEME_PATH_FALLBACK = r"C:\Users\Aditya\Documents\python\ANC_processor\tkinter_themes\Azure-ttk-theme-main\azure.tcl"
+THEME_PATH_FALLBACK = r"C:\path_to_themes\tkinter_themes\Azure-ttk-theme-main\azure.tcl"
 
 # Transform parameters file for coregistration
 TRANSFORM_PARAMETERS_FILE = r"D:\Filezilla\Coreg Essen\transform_parameters.txt"
