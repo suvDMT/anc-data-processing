@@ -43,7 +43,7 @@ Follow these steps exactly after cloning the repository.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://10.21.213.195/ancorelog/anc-data-processing.git
+git clone https://github.com/suvDMT/anc-data-processing.git
 cd anc-data-processing
 ```
 
