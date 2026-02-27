@@ -232,7 +232,7 @@ Sub-folders are created automatically by each processing step:
 > Update `TRANSFORM_PARAMETERS_FILE` in `config.py`. The file must contain
 > a 3x3 affine matrix — three rows, three space-separated float values per row.
 
-**PyTorch installs CPU version even though I have a GPU**
+**PyTorch installs CPU version even though having a GPU**
 > Make sure you installed PyTorch using the correct CUDA URL in Step 3
 > *before* running `pip install -r requirements.txt`.
 
