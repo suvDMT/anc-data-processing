@@ -113,13 +113,13 @@ constants to match your local machine:
 # config.py
 
 # Path to the Azure Tkinter theme file
-THEME_PATH_FALLBACK = r"C:\path\to\azure.tcl"
+THEME_PATH_FALLBACK = r"\path\to\azure.tcl"
 
 # Path to the affine transform parameters file for SWIR/VNIR coregistration
-TRANSFORM_PARAMETERS_FILE = r"C:\path\to\transform_parameters.txt"
+TRANSFORM_PARAMETERS_FILE = r"\path\to\transform_parameters.txt"
 
 # Path to the pre-trained PyTorch model file for HSI masking
-MASK_MODEL_PATH = r"C:\path\to\your_model.pth"
+MASK_MODEL_PATH = r"\path\to\your_model.pth"
 ```
 
 | Constant | What it points to | When it is used |
